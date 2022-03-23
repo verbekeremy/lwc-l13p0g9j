@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/verbekeremy.lwc-l13p0g9j",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve imFDQc5TXlmhyUhlWEJ4 --open"
+  }
+}
